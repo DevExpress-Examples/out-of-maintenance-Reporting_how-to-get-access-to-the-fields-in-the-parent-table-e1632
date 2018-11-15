@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/GetValue/Form1.cs) (VB: [Form1.vb](./VB/GetValue/Form1.vb))
+* **[XtraReport1.cs](./CS/GetValue/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/GetValue/XtraReport1.vb))**
+<!-- default file list end -->
 # How to get access to the fields in the parent table
 
 
